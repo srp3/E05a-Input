@@ -1,4 +1,5 @@
-# E05-Input
+# E05-Input 
+Sunny Patel, 2020, this completes assignment 05a
 
 This is an exercise to help you become accustomed to how Godot treats user input.
 
